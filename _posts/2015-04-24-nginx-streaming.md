@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## NGINX not streaming when using Puma?
