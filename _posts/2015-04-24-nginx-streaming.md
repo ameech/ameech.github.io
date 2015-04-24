@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## NGINX not streaming when using Puma?
